@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<root>
-	<script targetpath="assets/scripts/dashboard-designer-component.js">
-	
-	<input src="assets\scripts\ej.dashboarddesigner.min.js"/>
-	<input src="assets\scripts\codemirror.min.js"/>
-		
-	</script>
-</root>
